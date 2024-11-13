@@ -1,6 +1,6 @@
 ## Welcome to CloudMile Indonesia Repository
 
-![](/ss.png)
+![](https://raw.githubusercontent.com/cloudmileid/.github/refs/heads/main/profile/ss.png)
 
 [Website](https://mile.cloud/id/) | [CMID Demo Website](https://cmid.cloud)
 
